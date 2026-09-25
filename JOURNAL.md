@@ -10,7 +10,8 @@ I would like to secure my family's future , provide them all they deserve.
 
 ## What do I stand for ?
 
-I am better than a machine , I am can do better than any AI agent. I can demonstrate that eventhow AI is getting strong I can be stronger and better, they can not replace me. I am a core asset 
+Built without AI assistance
+
 
 ## First checkpoint.
 
