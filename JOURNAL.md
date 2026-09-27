@@ -62,3 +62,29 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 - resumed github testing. 
 - removed folders and created clones in order to recover the information
 - creating practice and generating different errors in order to review and troubleshoot
+
+## Week 01 · Retrospective
+
+- I learned the difference beetween a local and a web repo.
+- Learned What is a control version software.
+- Learned the diferrence between a linux and git command
+- Learned how link a local and a remote main 
+- I can commit using standard convention.
+- Created a lot of test repos and a useful Journal
+- I can explain what a branch is and its core value \
+- I was able to troubleshooting error messages
+
+### What would I do different : 
+
+- Verifiy if a folder was named using according to the conventions
+- Learning more shortcuts no navigate easily while learning 
+- Trying to break more things , make it hard in order to find more ways to troubleshoot
+
+### What habit should I keep :
+
+- Studying in two blocks of 1 hour splititing it in two pomodoro cycles of 30 minutes.
+
+- Testing or putting hands on everything I learn
+
+- going beyond , trying more things than the ones I am supossed to do in a learning excercise.
+
