@@ -49,3 +49,16 @@ Knowing the objective of a commit , at the first I though it was simply a saving
 
 #### what I struggled with the most : 
 Learning about the logic of a cloud repo. How it is connecting with the local repo and the logic behind changes in both of them
+
+### 2026-09-25
+- Created new public repos linking them with theit local repo.
+- Did a lot of tests 
+- Learned commits convention
+
+#### what I struggled with the most : 
+Commiting in the rightway sometimes requires analysis rather than adding the first thing that comes in your mind.
+
+### 2026-09-27 -Final Day week 1
+- resumed github testing. 
+- removed folders and created clones in order to recover the information
+- creating practice and generating different errors in order to review and troubleshoot
