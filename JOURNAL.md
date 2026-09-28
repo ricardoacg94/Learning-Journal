@@ -62,6 +62,12 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 - resumed github testing. 
 - removed folders and created clones in order to recover the information
 - creating practice and generating different errors in order to review and troubleshoot
+- Cloned a repository from a university seminar , reviewed logs , and understood all of the commits workflow
+
+#### what I struggled with the most : 
+- Understanding fast-forward
+- Understanding the logic beetween branches and commits used together.
+- Verifying the branch before merging
 
 ## Week 01 · Retrospective
 
