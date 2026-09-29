@@ -94,3 +94,12 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 
 - going beyond , trying more things than the ones I am supossed to do in a learning excercise.
 
+### 2026-09-28 :
+
+- Practicing branching
+- undertanding the logic behind branching
+
+#### what I struggled with the most : 
+- Understanding how a new parallel line its created
+- undertanding how to visualize branching workflow
+
