@@ -103,3 +103,28 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 - Understanding how a new parallel line its created
 - undertanding how to visualize branching workflow
 
+### 2026-10-05 :
+-  Reviewed what I did the last week including all anki cards.
+- I got deeper in merging with git , and tested rebase.
+- Trained with learn branching with git 
+
+
+#### what I struggled with the most : 
+
+- retaking from i finished last week , since not all of the knowledge was still fresh in my mind I had to trained and test a lot before getting comfrotable again.
+
+
+
+### 2026-10-06 :
+
+- Continued with branching and fast forward.
+- Learned how to merge with fas forward and with conflicts.
+
+
+
+
+#### what I struggled with the most : 
+
+- Resolving conlficts as I did not know hwo to resolve it , I did it through VSCODE , and then staged and commited 
+
+
