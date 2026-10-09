@@ -122,9 +122,30 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 
 
 
-
 #### what I struggled with the most : 
 
 - Resolving conlficts as I did not know hwo to resolve it , I did it through VSCODE , and then staged and commited 
 
+### 2026-10-07 :
 
+- Lerned everything about resolving conflicts while merging .
+- Did a lot of testing in order to replicate a fast forward , a merge without conflicts and a merge with conflicts 
+- Lerned how to resolve conflicts using vscode , and the next steps
+
+
+
+#### what I struggled with the most : 
+
+- Learning how to anticipate differents merge , how a fastforward is conducted, how to merge without no conflicts and how conflicts wordks and why, I had to test a lot fo scenarios in order to understand 
+
+### 2026-10-08 :
+
+- Lerned everything about stashing , recover something stashed and apply a stashed change in the branch I desire
+- Learned why stashing is useful
+
+
+
+#### what I struggled with the most : 
+
+- Understanding how the stash is stored , what is it and why it is helpful.
+ 
