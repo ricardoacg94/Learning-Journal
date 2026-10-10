@@ -160,4 +160,25 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 #### what I struggled with the most : 
 
 - Fetch dommand, it was mentioned during git pull explanation but a did not understand
-- testing
+
+
+## Week 2 retrospective
+
+- I learned the diferrence of git pull and pull request
+- I learned how to resolve conflicts , using vscode
+- I learned how to navigate beetween brances saving changes 
+- I know how to save changes without commiting and how to retrieve them
+- I was able to manage local and remote branches and when to delete them
+- I know the difference beetween fast forward , merge without conflict and resolving conflicts for merging 
+
+### What would I do different : 
+
+- I would update the journal as gthe first thing in the last pomodoro sessions 
+
+- understand concepts that I am not pretty sure , like  : how git hanlde changes , how changes are stored and retrieve, how changes are stored for a commit (are they just a hash)  ? I would like to understand some of the logic in the background
+
+### What habit should I keep :
+
+- Keeping pomodoro timers of 30 minutes.
+- Studuying 12 hours per week  , no matter what.
+- Studiying in two blocks of 1  , one in the morning and one in the afternoon
