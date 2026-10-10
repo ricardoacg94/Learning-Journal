@@ -149,3 +149,14 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 
 - Understanding how the stash is stored , what is it and why it is helpful.
  
+### 2026-10-09 :
+
+- Learned about pull request in github
+- Learned about git pull
+- My local branch does not know about any merge in github , I need to do a git pull
+- Learned about different models of shared repositories 
+
+
+#### what I struggled with the most : 
+
+- Fetch dommand, it was mentioned during git pull explanation but a did not understand
