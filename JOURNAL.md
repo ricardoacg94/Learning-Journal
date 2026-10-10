@@ -160,3 +160,4 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 #### what I struggled with the most : 
 
 - Fetch dommand, it was mentioned during git pull explanation but a did not understand
+- testing
