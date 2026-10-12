@@ -181,4 +181,30 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 
 - Keeping pomodoro timers of 30 minutes.
 - Studuying 12 hours per week  , no matter what.
-- Studiying in two blocks of 1  , one in the morning and one in the afternoon
+- Studiying in two blocks of 1  , one in the morning and one in the 
+
+
+### 2026-10-10 :
+
+- Worked on git pull and pull requests 
+- Learned the concept of git diff (not much details)
+- Tested a lot of pull requests and deleting branchs after
+
+
+
+#### what I struggled with the most : 
+
+- How to review pull requests and knowing the difference beetween the github and git status (we need to pull after a PR in order to retrive latest changes)
+
+
+### 2026-10-12 :
+
+- Learned (more in deep), the concept about git diff , git diff HEAD, git diff --staged
+- reviewed all details of a chunck , how to evaluate a change. 
+
+#### what I struggled with the most : 
+
+- Learning the difference beewteen git head and git diff. 
+
+
+
