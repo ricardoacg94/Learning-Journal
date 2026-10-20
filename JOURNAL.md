@@ -208,7 +208,7 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 
 
 
-### 2026-10-12 :
+### 2026-10-19 :
 - resuming git diff and all of its details.
 - I was able to apply git diff into many tests 
 - I was able to do colt diff exercise with excellent results
@@ -219,3 +219,18 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 
 - Resuming the difference beetween git diff , staged and HEAD
 - Learning the difference beetween diff branches , commits and files
+
+
+
+### 2026-10-20 :
+
+- Resuming the difference beetween git diff , staged and HEAD
+- Learning the difference beetween diff branches , commits and files
+- Learned how to reattached HEAD
+- Improve my skills to navigate to previous commits : HEAD~1 
+ 
+
+#### what I struggled with the most : 
+
+- Rule : using with diff  : always the latest commit as first parameter
+- detaching HEAD and understanding how new commits work
