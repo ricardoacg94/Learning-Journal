@@ -208,3 +208,14 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 
 
 
+### 2026-10-12 :
+- resuming git diff and all of its details.
+- I was able to apply git diff into many tests 
+- I was able to do colt diff exercise with excellent results
+- Learned ow diff branches c, commits and specific files
+ 
+
+#### what I struggled with the most : 
+
+- Resuming the difference beetween git diff , staged and HEAD
+- Learning the difference beetween diff branches , commits and files
