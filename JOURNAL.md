@@ -220,8 +220,6 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 - Resuming the difference beetween git diff , staged and HEAD
 - Learning the difference beetween diff branches , commits and files
 
-
-
 ### 2026-10-20 :
 
 - Resuming the difference beetween git diff , staged and HEAD
@@ -234,3 +232,16 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 
 - Rule : using with diff  : always the latest commit as first parameter
 - detaching HEAD and understanding how new commits work
+
+
+### 2026-10-21 :
+- Learned About restore & reset command
+- Learned how to undo changes and preserve them and unod changes and delete them.
+- Learned how to undo changes and handle them in a new branch
+- Learned how to undo commits with reset and revert
+
+#### what I struggled with the most : 
+
+- The difference beetween a hard and regular restore.
+- Undertanding the difference beetween reset and revert and how to use each one.
+
