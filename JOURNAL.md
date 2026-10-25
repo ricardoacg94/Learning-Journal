@@ -245,3 +245,22 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 - The difference beetween a hard and regular restore.
 - Undertanding the difference beetween reset and revert and how to use each one.
 
+### 2026-10-22 :
+- Learned about revert command
+- Reverted changes that were already published in guthub 
+
+#### what I struggled with the most : 
+
+- Understanding what revert does , and its logic
+
+### 2026-10-25 :
+
+- I was able to understand when more bout origin/main and remote branches.
+- Learned more about local and remote repo  differences by fetching 
+
+#### what I struggled with the most : 
+
+- Understanding how to revert a remote commit more in deep.
+- Understanding how to stablish the difference between local and remote repo.
+
+
