@@ -263,4 +263,19 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 - Understanding how to revert a remote commit more in deep.
 - Understanding how to stablish the difference between local and remote repo.
 
+### 2026-10-26 :
+
+- I learned more about git fetch and the difference beetween fetch and pull.
+- I learned how to resolve pull conflicts and how it may happen.
+- I also learned how to link remote branches
+- I conducted a prune for the first time 
+
+#### what I struggled with the most : 
+
+- Trying to replicate a pull conflict.
+- Understanding that fetch stays in the workin directory while pull is downloaded to the workspace
+- Understanding when and why to prune
+
+
+
 
