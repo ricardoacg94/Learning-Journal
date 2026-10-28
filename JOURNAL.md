@@ -276,6 +276,16 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 - Understanding that fetch stays in the workin directory while pull is downloaded to the workspace
 - Understanding when and why to prune
 
+### 2026-10-26 :
+
+- Learned about the diference between git merge and rebase
+- I wa sable to understand the difference regarding commits in rebase and merge
+
+#### what I struggled with the most : 
+
+- Understanding how rebase works regarding commits
+
+
 
 
 
