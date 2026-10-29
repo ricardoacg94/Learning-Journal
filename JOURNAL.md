@@ -276,7 +276,7 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 - Understanding that fetch stays in the workin directory while pull is downloaded to the workspace
 - Understanding when and why to prune
 
-### 2026-10-26 :
+### 2026-10-27 :
 
 - Learned about the diference between git merge and rebase
 - I wa sable to understand the difference regarding commits in rebase and merge
@@ -286,6 +286,18 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 - Understanding how rebase works regarding commits
 
 
+
+### 2026-10-28 :
+
+- I applied some rebase tests.
+- Reviewed more documentation regarding git rebase.
+- Learned the posibilities regarding interactive rebase.
+- Learned how to resolve rebase conflicts 
+- Learned when not to reverse
+#### what I struggled with the most : 
+
+- Once again understanding how rebase works.
+- Understanding which commits are deleted by reverse
 
 
 
