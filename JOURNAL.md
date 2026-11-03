@@ -299,5 +299,30 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 - Once again understanding how rebase works.
 - Understanding which commits are deleted by reverse
 
+### 2026-11-02 :
+- Learned the diferrence between squash and fixup
+- Did a test for fixup just mixing to commits keeping the older one message 
+- Did a test for squash , mixing to commits and changing the commit message
+- Tried to revert changes using reset (no revert since I was just working local)
+
+#### what I struggled with the most : 
+
+- Tried to use revert for change that was not in the actual path
+- Learning when to use fixup or squash (fixup the most common)
+
+### 2026-11-03 :
+- Learned About reflog and how to navigate to any reflog  
+- Learned how to name@{#} to reference using days , number
+- Learned how to reset using a reflog entry 
+- Learned how to review any log entry
+
+#### what I struggled with the most : 
+- Understanding how to choose the correct reference(reflog)
+- Understanding the logic behind a reflog 
+- Using reset with a reflog securely
+
+
+
+
 
 
