@@ -10,7 +10,7 @@ I would like to secure my family's future , provide them all they deserve.
 
 ## What do I stand for ?
 
-Built without AI assistance
+Developing with foundations , using AI just for reviewing
 
 
 ## First checkpoint.
