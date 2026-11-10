@@ -321,6 +321,26 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 - Understanding the logic behind a reflog 
 - Using reset with a reflog securely
 
+### 2026-11-04 :
+- Practiced in a new repo to stablish reset concepts
+- practiced droping and rewording in test repo
+
+#### what I struggled with the most : 
+
+- How to understand when to use rebase safely.
+- Using name@{}/~HEAD to navigate 
+
+### 2026-11-09 :
+
+- Started linux course
+- Learned history of linux 
+- Learned the diferences between linux and windows 
+- Learned about linux distributions 
+
+#### what I struggled with the most : 
+
+- The difference between linux and microsoft 
+- explaining linux and its advantages
 
 
 
