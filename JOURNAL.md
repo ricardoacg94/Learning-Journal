@@ -343,6 +343,25 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 - explaining linux and its advantages
 
 
+### 2026-11-10 :
 
+- Learned what is virtual box 
+- Created my first VM 
+- Learned about CENTOS and its change since 2021
+
+#### what I struggled with the most : 
+
+- Creating the virtual machine , knowing the best configuration.
+
+### 2026-11-10 :
+
+- Installed rocky 9 in a VM
+-  Created a new VM for ubuntu.
+- Learned the diference between root and regular user
+
+#### what I struggled with the most : 
+
+- installing ubuntu , installation failed two times
+- Learnening difference between nat config and network details during the installation
 
 
