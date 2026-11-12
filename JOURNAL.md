@@ -364,4 +364,16 @@ Commiting in the rightway sometimes requires analysis rather than adding the fir
 - installing ubuntu , installation failed two times
 - Learnening difference between nat config and network details during the installation
 
+### 2026-12-10 :
+
+- Recovered previous status of a VM using a snpashot
+-  Learned how to handle a vm using config , changing local disk usage , cpu cores etc
+- emphasized in what a super user is.
+
+#### what I struggled with the most : 
+
+- undertand each key purpose
+- understanding the difference between nat and bridge network
+
+
 
